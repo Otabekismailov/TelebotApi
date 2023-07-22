@@ -1,9 +1,9 @@
-#menyu
+# Menyu
 ![image](https://user-images.githubusercontent.com/123373407/219460065-ac7d1767-64d1-4846-b26a-6ee7dc9ed6da.png)
 
 
 
-#registr
+# Registr
 
 ![image](https://user-images.githubusercontent.com/123373407/219460404-94d6e939-fd1a-49e3-a8d8-313d9213512b.png)
 
